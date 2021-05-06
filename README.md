@@ -7,8 +7,8 @@ This is a fully modded Exile Server, with Mission-Files
 
 Avaiable Versions | Description  |  Download
 --- | ---  |  ---
-Basic-Version | Work on Linux and Windows only on 32Bit | ---
-EXT-extDB3-Version | Works on Linux and Windows 32/64 Bit | ---
+Basic-Version | Work on Linux and Windows only on 32Bit | https://github.com/HellBz/EXILE_Server_x32-x64/archive/refs/tags/basic_1_0_4_a.zip
+EXT-extDB3-Version | Works on Linux and Windows 32/64 Bit | https://github.com/HellBz/EXILE_Server_x32-x64/archive/refs/tags/extdb3_1_0_4_a.zip
 --- | ---  |  ---
 
 There You can Find all Mods
