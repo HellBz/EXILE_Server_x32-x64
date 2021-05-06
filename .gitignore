@@ -1,0 +1,6 @@
+﻿*.pbo.bak
+/mpmissions/*.pbo
+/@exileserver/addons/a3_infistar_exile.pbo
+/@exileserver/addons/a3_infistar_exile.pbo.bak
+/@exileserver/addons/a3_infistar_exile/
+/other/*
