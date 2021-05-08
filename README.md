@@ -21,7 +21,7 @@ There You can Find all Mods
 
 Used Mod | Link | Version | Modified
 --- | --- | --- | ---
-ExileMod | http://exilemod.com/ | 1.0.4a | ❌
-ExtDB3 Overrides | https://github.com/BrettNordin/Exile | --- | ---
-ExtDB3 fresh Version | https://github.com/SteezCram/extDB3 | --- | ---
+ExileMod | http://exilemod.com/ | basic_1_0_4_a | ❌
+ExtDB3 Overrides | https://github.com/BrettNordin/Exile | extdb3_1_0_4_a | ❌
+ExtDB3 fresh Version | https://github.com/SteezCram/extDB3 | extdb3_1_0_4_a | ❌
 
