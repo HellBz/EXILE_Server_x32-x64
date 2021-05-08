@@ -7,8 +7,8 @@ This is a fully modded Exile Server, with Mission-Files
 
 Avaiable Versions | Description  |  Download  |  ![Windows X86](https://cdn.tsicons.com/icons/e6AKVo9PnnKJww.png) x86  |  ![Windows X64](https://cdn.tsicons.com/icons/e6AKVo9PnnKJww.png) x64  |  ![Linux x86](https://cdn.tsicons.com/icons/aD7We2DA283b3.png) x86  |  ![Linux x64](https://cdn.tsicons.com/icons/aD7We2DA283b3.png) x64
 --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---
-Basic-Version | Work on Linux and Windows only on 32Bit | [Download Basic-Version](https://github.com/HellBz/EXILE_Server_x32-x64/archive/refs/tags/basic_1_0_4_a.zip)  |  ✅  |  ❌  |  ✅  |  ❌
-extDB3-Version | Works on Linux and Windows 32/64 Bit | [Download extdb3-Version](https://github.com/HellBz/EXILE_Server_x32-x64/archive/refs/tags/extdb3_1_0_4_a.zip)  |  ✅  |  ✅  |  ✅  |  ✅
+Basic-Version | Work on Linux and Windows only on 32Bit | [Basic-Version](https://github.com/HellBz/EXILE_Server_x32-x64/archive/refs/tags/basic_1_0_4_a.zip)  |  ✅  |  ❌  |  ✅  |  ❌
+extDB3-Version | Works on Linux and Windows 32/64 Bit | [extdb3-Version](https://github.com/HellBz/EXILE_Server_x32-x64/archive/refs/tags/extdb3_1_0_4_a.zip)  |  ✅  |  ✅  |  ✅  |  ✅
 
 
 
